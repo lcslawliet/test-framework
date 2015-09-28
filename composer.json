@@ -1,0 +1,9 @@
+{
+    "require": {
+    	"altorouter/altorouter": "1.1.0",
+        "doctrine/orm": "*@dev"
+    },
+    "autoload": {
+    	"":"app/"
+    }
+}
